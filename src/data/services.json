@@ -1,0 +1,38 @@
+[
+  {
+    "id": "web-apps",
+    "icon": "⬡",
+    "title": "Custom Web Applications",
+    "summary": "Full-stack platforms tailored to your business processes.",
+    "description": "From internal tools to client-facing systems, we build web applications that fit how your business actually works — not the other way around.",
+    "stack": [
+      "Vue.js",
+      ".NET",
+      "PostgreSQL"
+    ]
+  },
+  {
+    "id": "integrations",
+    "icon": "◎",
+    "title": "System Integration & APIs",
+    "summary": "Connect your tools and automate your workflows.",
+    "description": "Clean REST APIs, third-party integrations, and automated pipelines. We design for reliability and maintainability from day one.",
+    "stack": [
+      "REST",
+      "OpenAPI",
+      "Keycloak"
+    ]
+  },
+  {
+    "id": "cloud",
+    "icon": "▣",
+    "title": "Cloud Deployment & DevOps",
+    "summary": "Containerized infrastructure you own and control.",
+    "description": "We deploy to Azure or Hetzner with Docker, set up reverse proxies, SSL, and automated backups. You get full access — no lock-in.",
+    "stack": [
+      "Docker",
+      "Azure",
+      "Hetzner"
+    ]
+  }
+]

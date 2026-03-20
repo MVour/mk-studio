@@ -1,0 +1,19 @@
+[
+  {
+    "id": "aigistos",
+    "client": "ΑΙΓΙΣΤΟΣ A.E.",
+    "initials": "ΑΙ",
+    "title": "Fleet & Site Management Platform",
+    "summary": "A custom web platform for digitizing fleet operations and construction site management.",
+    "description": "Real-time alerts, preventive maintenance scheduling, fuel and usage tracking, equipment transfers between sites, and role-based access control — built for a mid-size Greek construction company.",
+    "stack": [
+      "Vue.js",
+      ".NET Minimal API",
+      "PostgreSQL",
+      "Keycloak",
+      "Docker"
+    ],
+    "status": "active",
+    "year": 2026
+  }
+]

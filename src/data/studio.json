@@ -1,0 +1,28 @@
+{
+  "name": "MK Studio",
+  "displayName": "[MK - STUDIO]",
+  "logoMark": "◈",
+  "logoDark": "/images/logo/mk-logo-D-dark.svg",
+  "logoLight": "/images/logo/mk-logo-D-light.svg",
+  "tagline": "Custom software for businesses that need real solutions.",
+  "location": "Athens, Greece",
+  "heroLabel": "Software Studio · Athens, Greece",
+  "email": "mk@studio.dev",
+  "socials": [
+    {
+      "label": "Michalis — LinkedIn",
+      "icon": "mdi-linkedin",
+      "url": "https://linkedin.com/in/michalis-vourtzoumis"
+    },
+    {
+      "label": "Krikor — LinkedIn",
+      "icon": "mdi-linkedin",
+      "url": "https://linkedin.com/in/krikor-tzevahirian"
+    },
+    {
+      "label": "Portfolio",
+      "icon": "mdi-github",
+      "url": "https://mvour.github.io/portfolio/"
+    }
+  ]
+}

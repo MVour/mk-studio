@@ -1,0 +1,26 @@
+[
+  {
+    "id": "michalis",
+    "initials": "MV",
+    "name": "Michalis Vourtzoumis",
+    "role": "Full-Stack & UI/UX Specialist",
+    "bio": "Software engineer with a background in full-stack development, MLOps, and EU-funded R&D. Focused on clean interfaces and systems that are easy to use from day one.",
+    "email": "m.vourtzoumis.bz@gmail.com",
+    "linkedin": "https://linkedin.com/in/michalis-vourtzoumis",
+    "github": "https://mvour.github.com",
+    "portfolio": "https://mvour.github.io/portfolio/",
+    "photo": "/images/mike.png"
+  },
+  {
+    "id": "krikor",
+    "initials": "KT",
+    "name": "Krikor Tzevahirian",
+    "role": "Full-Stack & Cloud Architect",
+    "bio": "Specialist in backend systems, cloud infrastructure, and security. Responsible for platform stability, IAM integration, and making sure everything runs reliably in production.",
+    "email": "krikortzeva@gmail.com",
+    "linkedin": "https://linkedin.com/in/krikor-tzevahirian",
+    "github": "",
+    "portfolio": "",
+    "photo": "/images/krikor.png"
+  }
+]

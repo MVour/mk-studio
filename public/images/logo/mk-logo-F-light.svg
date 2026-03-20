@@ -1,0 +1,7 @@
+<svg width="120" height="60" viewBox="0 0 120 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <text x="0" y="30" font-family="Space Mono, monospace" font-size="26" font-weight="700" fill="#4a3fcc">[</text>
+  <text x="16" y="30" font-family="Space Mono, monospace" font-size="26" font-weight="700" fill="#1a1825">MK</text>
+  <text x="72" y="30" font-family="Space Mono, monospace" font-size="26" font-weight="700" fill="#4a3fcc">]</text>
+  <line x1="2" y1="36" x2="88" y2="36" stroke="rgba(74,63,204,0.25)" stroke-width="0.5"/>
+  <text x="2" y="48" font-family="Space Mono, monospace" font-size="8" font-weight="400" fill="#9490b0" letter-spacing="5">STUDIO</text>
+</svg>
