@@ -1,7 +1,7 @@
 <template>
   <section id="contact" class="page-section" :class="{ 'page-section--alt': useStripColor }">
     <v-container>
-      <v-card variant="outlined" rounded="lg" class="cta-card pa-10 text-center mx-auto">
+      <v-card variant="outlined" rounded="lg" class="cta-card pa-5 text-center mx-auto">
         <p class="section-label mb-3">{{ $t('contact.label') }}</p>
         <h2 class="section-title mb-4">{{ $t('contact.title') }}</h2>
         <p class="cta-sub mb-8">{{ $t('contact.sub') }}</p>

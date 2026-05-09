@@ -1,6 +1,8 @@
 import { createRouter, createWebHistory } from 'vue-router'
 import type { RouteRecordRaw } from 'vue-router'
 
+import studio from '@/data/studio.json'
+
 const routes: RouteRecordRaw[] = [
   {
     path: '/',
@@ -50,7 +52,7 @@ const router = createRouter({
 })
 
 router.afterEach((to) => {
-  const base = '[STUDIO NAME]'
+  const base = studio.name
   document.title = to.meta.title ? `${to.meta.title} — ${base}` : base
 })
 

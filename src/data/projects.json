@@ -1,11 +1,31 @@
 [
+  
   {
-    "id": "aigistos",
-    "client": "ΑΙΓΙΣΤΟΣ A.E.",
-    "initials": "ΑΙ",
-    "title": "Fleet & Site Management Platform",
-    "summary": "A custom web platform for digitizing fleet operations and construction site management.",
-    "description": "Real-time alerts, preventive maintenance scheduling, fuel and usage tracking, equipment transfers between sites, and role-based access control — built for a mid-size Greek construction company.",
+    "id": "Spill-it",
+    "client": "Private",
+    "initials": "SP",
+    "title": "HR Survey & Feedback System",
+    "summary": "A custom solution for HR teams to gather employee feedback, conduct surveys, and analyze workplace sentiment.",
+    "description": "An internal tool for a private client, designed to help HR teams collect and analyze employee feedback through surveys and sentiment analysis. The platform includes features for creating surveys, tracking responses, and generating insights to improve workplace culture.",
+    "stack": [
+      "Vue.js",
+      ".NET Minimal API",
+      "PostgreSQL",
+      "Keycloak",
+      "Docker",
+      "Semantic Kernel"
+    ],
+    "status": "active",
+    "year": 2026
+  },
+
+    {
+    "id": "AgroSense",
+    "client": "Private",
+    "initials": "AG",
+    "title": "AgroSense Platform",
+    "summary": "A custom platform for calculating and optimizing agricultural formulas, calculating costs and providing insights for better decision making.",
+    "description": "A custom platform for calculating and optimizing agricultural formulas, calculating costs, storing and managing formulas and company information.",
     "stack": [
       "Vue.js",
       ".NET Minimal API",
